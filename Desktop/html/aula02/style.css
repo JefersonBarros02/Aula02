@@ -1,0 +1,40 @@
+@import url('//db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=BeaufortforLOL-Bold');
+
+body {
+    background-color: #0a0a0c;
+    margin: 0 auto;
+}
+
+#navbar {
+    width: 100%;
+    height: 75px;
+    background-color: beige;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+#caixaUm {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+#caixaDois {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+}
+
+h1, h2{
+    color: white;
+    font-family: BeaufortforLOL-Bold;
+
+}
